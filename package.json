@@ -16,7 +16,7 @@
   ],
   "version": "0.1.1",
   "dependencies": {
-      "grunt": ">0",
+      "grunt": "<0.4",
       "optimist": ">0",
       "grunt-jasmine-task": ">0",
       "grunt-docco": ">0",
